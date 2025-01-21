@@ -51,7 +51,7 @@ console.log(17 - 7);
 console.log(18 + 22);
 console.log(((18 + 22) * (19 - 2)/ 34)*3);
 
-
+||||||||||||||||||||\
 console.log('---main---');
 
 //trainning 1
